@@ -1,7 +1,7 @@
 # myWeatherReport
 
 #### 介绍
-my personal weather report for practise
+天气预报练手小项目
 
 #### 软件架构
 软件架构说明

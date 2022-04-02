@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="weatherlifeindex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="addcity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="weatherlifeindex.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="addcity.h">
+      <Filter>Source Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="addcity.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="weatherlifeindex.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="widget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image\100.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\101.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\102.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\103.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\104.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\150.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\153.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\154.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\300.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\301.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\302.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\303.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\304.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\305.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\306.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\307.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\308.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\309.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\310.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\311.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\312.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\313.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\314.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\315.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\316.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\317.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\318.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\350.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\351.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\399.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\400.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\401.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\402.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\403.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\404.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\405.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\406.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\407.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\408.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\409.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\410.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\456.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\457.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\499.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\500.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\501.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\502.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\503.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\504.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\507.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\508.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\509.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\510.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\511.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\512.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\513.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\514.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\515.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\900.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\901.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\999.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\bac.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\city.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="city_code.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\icon.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image\life.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="lightblue.css">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="test.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+  </ItemGroup>
+</Project>

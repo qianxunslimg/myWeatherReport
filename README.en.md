@@ -1,7 +1,7 @@
 # myWeatherReport
 
 #### Description
-my personal weather report for practise
+天气预报练手小项目
 
 #### Software Architecture
 Software architecture description
